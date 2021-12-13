@@ -4,7 +4,7 @@ select * from employee_payroll
 
 exec sp_help employee_payroll
 
-insert into employee_payroll values( 'Gyanendra', 80000.00, '2021-12-13')
-insert into employee_payroll values( 'Mohan', 70000.00, '2021-12-14')
-insert into employee_payroll values( 'Sohan', 60000.00, '2021-12-16')
-insert into employee_payroll values( 'Rohan', 50000.00, '2021-12-18')
+insert into employee_payroll values( 'Sahiba', 80000.00, '2021-12-13')
+insert into employee_payroll values( 'Mantasha', 70000.00, '2021-12-14')
+insert into employee_payroll values( 'Kashish', 60000.00, '2021-12-16')
+insert into employee_payroll values( 'Enayat', 50000.00, '2021-12-18')
